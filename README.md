@@ -1,2 +1,3 @@
 # godot-engine-pooling-system
-A ready-to-go pooling system for Godot Engine
+
+Inspired by [Object Pooling](https://www.unitydesignpatterns.com/patterns/objectpooling) script from [Unity Design Patterns](https://www.unitydesignpatterns.com/) by Gülnaz Gürbüz.  
